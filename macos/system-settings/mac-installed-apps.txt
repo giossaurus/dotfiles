@@ -1,0 +1,59 @@
+Adobe
+Adobe Extension Manager CS6
+Adobe Lightroom Classic
+Adobe Photoshop CC 2019
+Battle.net.app
+ChatGPT.app
+Chatbox.app
+CurseForge.app
+DeepSeek.app
+DevToys.app
+Discord.app
+DisplayLink Manager.app
+DisplayLink Software Uninstaller.app
+Docker.app
+Excalidraw.app
+GitHub Desktop.app
+Google Chrome.app
+Google Docs.app
+Google Drive.app
+Google Sheets.app
+Google Slides.app
+Hidden Bar.app
+IntelliJ IDEA.app
+Loom.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mullvad VPN.app
+MySQLWorkbench.app
+Notion.app
+Numi.app
+ObinsKit.app
+Ollama.app
+OneDrive.app
+Postman.app
+ProgramMusic.app
+PyCharm CE.app
+Python 3.11
+Python 3.12
+Rectangle.app
+Rede
+RockboxUtility.app
+Safari.app
+Slack.app
+Spotify.app
+Steam.app
+Stremio.app
+The Unarchiver.app
+Thonny.app
+Utilities
+VLC.app
+Visual Studio Code.app
+Warcraft III
+WebPKI.app
+WhatsApp.app
+World of Warcraft
+Xcode.app
+kitty.app
+lghub.app
