@@ -1,29 +1,8 @@
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
 [user]
-    name = Giovanni
-    email = gihhskt@gmail.com
-    signingkey = ~/.ssh/id_ed25519
-[pull]
-    rebase = true
-[push]
-    default = current
-[init]
-    defaultBranch = main
-[color]
-    ui = auto
-[diff]
-    tool = vimdiff
-
-[alias]
-    st = status
-    ci = commit
-    co = checkout
-    br = branch
-    lg = log --oneline --graph --decorate --all
-    unstage = reset HEAD --
-    last = log -1 HEAD
-[core]
-    editor = nano
-    autocrlf = input
-    pager = diff-so-fancy | less --tabs=4 -RFX
-[credential]
-    helper = cache --timeout=3600
+	name = Giovanni Della Dea
+	email = 91167613+giossaurus@users.noreply.github.com
