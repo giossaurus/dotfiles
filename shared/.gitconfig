@@ -1,0 +1,19 @@
+[user]
+    name = Giovanni
+    email = gihhskt@gmail.com
+
+[core]
+    editor = nano
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --decorate --all
+
+[includeIf "gitdir:~/dotfiles/macos/"]
+    path = ~/dotfiles/macos/.gitconfig
+
+[includeIf "gitdir:~/dotfiles/ubuntu/"]
+    path = ~/dotfiles/ubuntu/.gitconfig

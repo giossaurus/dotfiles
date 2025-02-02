@@ -1,0 +1,173 @@
+[apps/update-manager]
+first-run=false
+launch-count=1
+launch-time=int64 1738435601
+
+[com/ubuntu/update-notifier]
+release-check-time=uint32 1738434878
+
+[org/gnome/control-center]
+last-panel='ubuntu'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/solnyechniygio/.config/background'
+picture-uri-dark='file:///home/solnyechniygio/.config/background'
+primary-color='#000000'
+secondary-color='#000000'
+
+[org/gnome/desktop/input-sources]
+mru-sources=[('xkb', 'br')]
+show-all-sources=true
+sources=[('xkb', 'us+alt-intl')]
+xkb-options=@as []
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+font-antialiasing='rgba'
+font-hinting='full'
+font-name='Ubuntu Sans 11'
+gtk-theme='Yaru-purple-dark'
+icon-theme='Yaru-purple'
+toolkit-accessibility=false
+
+[org/gnome/desktop/notifications]
+application-children=['jetbrains-toolbox', 'org-gnome-tweaks', 'google-chrome', 'code']
+
+[org/gnome/desktop/notifications/application/code]
+application-id='code.desktop'
+
+[org/gnome/desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[org/gnome/desktop/notifications/application/jetbrains-toolbox]
+application-id='jetbrains-toolbox.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-tweaks]
+application-id='org.gnome.tweaks.desktop'
+
+[org/gnome/desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[org/gnome/desktop/privacy]
+old-files-age=uint32 30
+recent-files-max-age=-1
+
+[org/gnome/desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/Northan_lights_by_mizuno.webp'
+primary-color='#000000'
+secondary-color='#000000'
+
+[org/gnome/desktop/session]
+idle-delay=uint32 300
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/mutter]
+edge-tiling=false
+
+[org/gnome/mutter/keybindings]
+toggle-tiled-left=@as []
+toggle-tiled-right=@as []
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[org/gnome/nautilus/window-state]
+initial-size=(1254, 524)
+
+[org/gnome/portal/filechooser/google-chrome]
+last-folder-path='/home/solnyechniygio/Downloads'
+
+[org/gnome/portal/filechooser/io.github.realmazharhussain.GdmSettings]
+last-folder-path='/home/solnyechniygio/Downloads'
+
+[org/gnome/portal/filechooser/org.gnome.Settings]
+last-folder-path='/home/solnyechniygio/Downloads'
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-enabled=false
+
+[org/gnome/settings-daemon/plugins/power]
+sleep-inactive-ac-timeout=3600
+sleep-inactive-ac-type='nothing'
+
+[org/gnome/shell]
+app-picker-layout=[{'software-properties-drivers.desktop': <{'position': <0>}>, 'org.gnome.eog.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'gnome-language-selector.desktop': <{'position': <3>}>, 'org.gnome.PowerStats.desktop': <{'position': <4>}>, 'software-properties-gtk.desktop': <{'position': <5>}>, 'update-manager.desktop': <{'position': <6>}>, 'org.gnome.Calculator.desktop': <{'position': <7>}>, 'gnome-session-properties.desktop': <{'position': <8>}>, 'org.gnome.TextEditor.desktop': <{'position': <9>}>, 'org.gnome.Settings.desktop': <{'position': <10>}>, 'org.gnome.Extensions.desktop': <{'position': <11>}>, 'org.gnome.SystemMonitor.desktop': <{'position': <12>}>, 'Utilities': <{'position': <13>}>, 'yelp.desktop': <{'position': <14>}>, 'firefox_firefox.desktop': <{'position': <15>}>, 'io.github.realmazharhussain.GdmSettings.desktop': <{'position': <16>}>, 'info.desktop': <{'position': <17>}>, 'snap-store_snap-store.desktop': <{'position': <18>}>}]
+enabled-extensions=['ding@rastersoft.com', 'ubuntu-dock@ubuntu.com', 'tiling-assistant@ubuntu.com', 'gTile@vibou']
+favorite-apps=['firefox_firefox.desktop', 'google-chrome.desktop', 'spotify.desktop', 'discord_discord.desktop', 'org.gnome.Terminal.desktop', 'kitty.desktop', 'code.desktop', 'jetbrains-pycharm-7e9846a9-8799-4ab4-b37f-41f382e0bff0.desktop', 'jetbrains-idea-3444b081-19db-488d-800e-6c454b531617.desktop', 'jetbrains-clion-e24d6284-0399-4daa-9383-f44f7eb243d2.desktop', 'postman.desktop', 'docker-desktop.desktop', 'mysql-workbench-community_mysql-workbench-community.desktop', 'io.github.shiftey.Desktop.desktop', 'jetbrains-toolbox.desktop', 'notion-app.desktop', 'slack.desktop', 'org.gnome.Nautilus.desktop']
+last-selected-power-profile='performance'
+welcome-dialog-last-shown-version='46.0'
+
+[org/gnome/shell/extensions/dash-to-dock]
+dash-max-icon-size=34
+dock-position='LEFT'
+show-mounts=false
+show-mounts-only-mounted=true
+show-trash=false
+
+[org/gnome/shell/extensions/ding]
+check-x11wayland=true
+icon-size='standard'
+show-home=false
+
+[org/gnome/shell/extensions/gtile]
+grid-sizes='3x2,2x2,2x1'
+
+[org/gnome/shell/extensions/tiling-assistant]
+active-window-hint-color='rgb(211,70,21)'
+last-version-installed=46
+overridden-settings={'org.gnome.mutter.edge-tiling': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-left': <@mb nothing>, 'org.gnome.mutter.keybindings.toggle-tiled-right': <@mb nothing>}
+tiling-popup-all-workspace=true
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/terminal/legacy]
+theme-variant='dark'
+
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,0,0)'
+background-transparency-percent=11
+foreground-color='rgb(0,255,0)'
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+
+[org/gtk/gtk4/settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+sidebar-width=140
+sort-column='name'
+sort-directories-first=true
+sort-order='ascending'
+type-format='category'
+view-type='grid'
+window-size=(819, 372)
