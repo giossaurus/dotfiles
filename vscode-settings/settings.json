@@ -1,0 +1,97 @@
+{
+    "editor.fontSize": 16,
+    
+    "workbench.colorTheme": "Omni Dracula Theme",
+    "code-runner.runInTerminal": true,
+    "c-cpp-compile-run.c-flags": "-Wall -Wextra ",
+    "c-cpp-compile-run.cpp-flags": "-Wall -Wextra -std=ct7",
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.wordWrap": "on",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.minimap.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.chat.inlineChatHint.enabled": true,
+    "github.copilot.editor.enableCodeActions": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80,120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "trafficLightPosition": {
+            "x": 11,
+            "y": 10
+        },
+        "enable": true,
+    },
+    "apc.header": {
+        "height": 36
+    },
+    "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".pane-header": "padding: 0 8px",
+    ".pane-body": "padding: 8px",
+    ".split-view-view:first-child .pane-header": "display: none !important;",
+    ".monaco-list-row": "border-radius: 4px;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+    },
+    "window.commandCenter": false,
+    "window.titleBarStyle": "native",
+    "workbench.layoutControl.enabled": false,
+    "explorer.fileNesting.enabled": true,
+    "workbench.statusBar.visible": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": []
+    },
+    "explorer.sortOrder": "foldersNestsFiles",
+    "explorer.fileNesting.patterns": {
+      "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+      "tailwind.config.*": "tailwind.config*, postcss.config*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    },
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "github.copilot.enable": {
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true,
+        "javascript": true,
+        "python": true,
+        "typescript": true
+    },
+    "settingsSync.ignoredExtensions": [
+
+    ],
+    "github.copilot.chat.inlineChatCompletionTrigger.enabled": true,
+
+
+
+
+
+
+
+
+
+}
