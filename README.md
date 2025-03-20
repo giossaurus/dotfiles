@@ -115,19 +115,6 @@ Agora os dotfiles estão salvos para a próxima reinstalação!
 
 ---
 
-## ⚠️ **Aviso**
-🚨 Se algum **arquivo sensível** (chaves de API, senhas) for adicionado por engano, remova com:
-
-```sh
-git rm --cached caminho/do/arquivo
-git commit --amend -C HEAD
-git push origin main --force
-```
-
-Para garantir que arquivos sensíveis não sejam rastreados, adicione ao `.gitignore`.
-
----
-
 ## 📜 **Licença**
 Este repositório está sob a licença **MIT**. Use e modifique livremente.
 
